@@ -27,7 +27,7 @@ import { getActiveNode } from "symbol-node-util";
 ```
 
 ```
-
+npx ts-node index.ts
 ```
 
 .js
@@ -40,6 +40,10 @@ const nodeUtil =  require("symbol-node-util");
   console.log(node);
 })()
 
+```
+
+```
+node index.js
 ```
 
 # Feature
