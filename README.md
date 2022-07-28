@@ -20,7 +20,6 @@ import { getActiveNode } from "symbol-node-util";
 (async ()=>{
   const node = await getActiveNode(152);
   console.log(node);
-
 })()
 ```
 
