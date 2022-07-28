@@ -4,8 +4,6 @@ This module retrieves the active node of the blockchain Symbol
 
 # Installation
 
-Node.js
-
 ```
 npm instll symbol-node-util
 or
@@ -48,4 +46,4 @@ node index.js
 
 # Feature
 
-- getActiveNode(NetworkType: number): Promise<string>
+- getActiveNode(NetworkType: number): Promise\<string\>
