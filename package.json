@@ -1,7 +1,7 @@
 {
   "name": "symbol-node-util",
-  "version": "1.0.5",
-  "description": "",
+  "version": "1.0.6",
+  "description": "Symbol-Node-Util Module",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -20,7 +20,15 @@
   "engines": {
     "node": ">=14"
   },
-  "keywords": [],
+  "keywords": [
+    "Symbol",
+    "Node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishidad2/Symbol-Node-Util.git"
+  },
+  "homepage": "https://github.com/ishidad2/Symbol-Node-Util#readme",
   "author": "",
   "license": "ISC",
   "devDependencies": {
