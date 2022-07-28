@@ -1,6 +1,6 @@
 {
   "name": "symbol-node-util",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Symbol-Node-Util Module",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "prebuild": "rimraf dist",
-    "build": "run-p build:* && cp -r ./src/config ./dist",
+    "build": "run-p build:* && cp -r ./src/config ./dist && cp -r ./src/config ./dist/esm",
     "build:common": "tsc",
     "build:esm": "tsc -p tsconfig.esm.json"
   },
