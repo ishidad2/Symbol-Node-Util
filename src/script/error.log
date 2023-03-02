@@ -1,0 +1,241 @@
+{
+    "_id": "6375cc47343a650012b9fff3",
+    "version": 16777989,
+    "publicKey": "D20C4BFCE4AA22D8C9FDC5952BA36F41EE2226241362A963223A077FB1942192",
+    "networkGenerationHashSeed": "49D6E1CE276A85B70EAFE52349AACCA389302E7A9754BCF1221E79494FC665A4",
+    "roles": 3,
+    "port": 7900,
+    "networkIdentifier": 152,
+    "host": "mikun-testnet2.tk",
+    "friendlyName": "mikun_test2",
+    "lastAvailable": "2022-11-17T05:53:11.123Z",
+    "peerStatus": {
+        "isAvailable": true,
+        "lastStatusCheck": 1668664302124
+    },
+    "apiStatus": {
+        "restGatewayUrl": "https://mikun-testnet2.tk:3001",
+        "isAvailable": true,
+        "isHttpsEnabled": true,
+        "lastStatusCheck": 1668664303554,
+        "webSocket": {
+            "isAvailable": true,
+            "wss": true,
+            "url": "wss://mikun-testnet2.tk:3001/ws"
+        },
+        "nodePublicKey": "E4EAF960E8C4291AF1810F706E16750E3790237FDCF8887B4B0C1854603AD0FF",
+        "chainHeight": 29148,
+        "finalization": {
+            "height": 29132,
+            "epoch": 42,
+            "point": 29,
+            "hash": "4CAEFF3EBCB2B613BCC9EE34905B96BD4FF4F5546DEB467189F37A2A985F01AB"
+        },
+        "nodeStatus": {
+            "apiNode": "up",
+            "db": "up"
+        },
+        "restVersion": "2.4.2"
+    },
+    "__v": 0
+}{
+    "_id": "6375cc47343a650012b9fff3",
+    "version": 16777989,
+    "publicKey": "D20C4BFCE4AA22D8C9FDC5952BA36F41EE2226241362A963223A077FB1942192",
+    "networkGenerationHashSeed": "49D6E1CE276A85B70EAFE52349AACCA389302E7A9754BCF1221E79494FC665A4",
+    "roles": 3,
+    "port": 7900,
+    "networkIdentifier": 152,
+    "host": "mikun-testnet2.tk",
+    "friendlyName": "mikun_test2",
+    "lastAvailable": "2022-11-17T05:53:11.123Z",
+    "peerStatus": {
+        "isAvailable": true,
+        "lastStatusCheck": 1668664302124
+    },
+    "apiStatus": {
+        "restGatewayUrl": "https://mikun-testnet2.tk:3001",
+        "isAvailable": true,
+        "isHttpsEnabled": true,
+        "lastStatusCheck": 1668664303554,
+        "webSocket": {
+            "isAvailable": true,
+            "wss": true,
+            "url": "wss://mikun-testnet2.tk:3001/ws"
+        },
+        "nodePublicKey": "E4EAF960E8C4291AF1810F706E16750E3790237FDCF8887B4B0C1854603AD0FF",
+        "chainHeight": 29148,
+        "finalization": {
+            "height": 29132,
+            "epoch": 42,
+            "point": 29,
+            "hash": "4CAEFF3EBCB2B613BCC9EE34905B96BD4FF4F5546DEB467189F37A2A985F01AB"
+        },
+        "nodeStatus": {
+            "apiNode": "up",
+            "db": "up"
+        },
+        "restVersion": "2.4.2"
+    },
+    "__v": 0
+}{
+    "_id": "6375cc47343a650012b9fff3",
+    "version": 16777989,
+    "publicKey": "D20C4BFCE4AA22D8C9FDC5952BA36F41EE2226241362A963223A077FB1942192",
+    "networkGenerationHashSeed": "49D6E1CE276A85B70EAFE52349AACCA389302E7A9754BCF1221E79494FC665A4",
+    "roles": 3,
+    "port": 7900,
+    "networkIdentifier": 152,
+    "host": "mikun-testnet2.tk",
+    "friendlyName": "mikun_test2",
+    "lastAvailable": "2022-11-17T05:53:11.123Z",
+    "peerStatus": {
+        "isAvailable": true,
+        "lastStatusCheck": 1668664302124
+    },
+    "apiStatus": {
+        "restGatewayUrl": "https://mikun-testnet2.tk:3001",
+        "isAvailable": true,
+        "isHttpsEnabled": true,
+        "lastStatusCheck": 1668664303554,
+        "webSocket": {
+            "isAvailable": true,
+            "wss": true,
+            "url": "wss://mikun-testnet2.tk:3001/ws"
+        },
+        "nodePublicKey": "E4EAF960E8C4291AF1810F706E16750E3790237FDCF8887B4B0C1854603AD0FF",
+        "chainHeight": 29148,
+        "finalization": {
+            "height": 29132,
+            "epoch": 42,
+            "point": 29,
+            "hash": "4CAEFF3EBCB2B613BCC9EE34905B96BD4FF4F5546DEB467189F37A2A985F01AB"
+        },
+        "nodeStatus": {
+            "apiNode": "up",
+            "db": "up"
+        },
+        "restVersion": "2.4.2"
+    },
+    "__v": 0
+}{
+    "_id": "6375cc47343a650012b9fff3",
+    "version": 16777989,
+    "publicKey": "D20C4BFCE4AA22D8C9FDC5952BA36F41EE2226241362A963223A077FB1942192",
+    "networkGenerationHashSeed": "49D6E1CE276A85B70EAFE52349AACCA389302E7A9754BCF1221E79494FC665A4",
+    "roles": 3,
+    "port": 7900,
+    "networkIdentifier": 152,
+    "host": "mikun-testnet2.tk",
+    "friendlyName": "mikun_test2",
+    "lastAvailable": "2022-11-17T05:53:11.123Z",
+    "peerStatus": {
+        "isAvailable": true,
+        "lastStatusCheck": 1668664302124
+    },
+    "apiStatus": {
+        "restGatewayUrl": "https://mikun-testnet2.tk:3001",
+        "isAvailable": true,
+        "isHttpsEnabled": true,
+        "lastStatusCheck": 1668664303554,
+        "webSocket": {
+            "isAvailable": true,
+            "wss": true,
+            "url": "wss://mikun-testnet2.tk:3001/ws"
+        },
+        "nodePublicKey": "E4EAF960E8C4291AF1810F706E16750E3790237FDCF8887B4B0C1854603AD0FF",
+        "chainHeight": 29148,
+        "finalization": {
+            "height": 29132,
+            "epoch": 42,
+            "point": 29,
+            "hash": "4CAEFF3EBCB2B613BCC9EE34905B96BD4FF4F5546DEB467189F37A2A985F01AB"
+        },
+        "nodeStatus": {
+            "apiNode": "up",
+            "db": "up"
+        },
+        "restVersion": "2.4.2"
+    },
+    "__v": 0
+}{
+    "_id": "6375cc47343a650012b9fff3",
+    "version": 16777989,
+    "publicKey": "D20C4BFCE4AA22D8C9FDC5952BA36F41EE2226241362A963223A077FB1942192",
+    "networkGenerationHashSeed": "49D6E1CE276A85B70EAFE52349AACCA389302E7A9754BCF1221E79494FC665A4",
+    "roles": 3,
+    "port": 7900,
+    "networkIdentifier": 152,
+    "host": "mikun-testnet2.tk",
+    "friendlyName": "mikun_test2",
+    "lastAvailable": "2022-11-17T05:53:11.123Z",
+    "peerStatus": {
+        "isAvailable": true,
+        "lastStatusCheck": 1668664302124
+    },
+    "apiStatus": {
+        "restGatewayUrl": "https://mikun-testnet2.tk:3001",
+        "isAvailable": true,
+        "isHttpsEnabled": true,
+        "lastStatusCheck": 1668664303554,
+        "webSocket": {
+            "isAvailable": true,
+            "wss": true,
+            "url": "wss://mikun-testnet2.tk:3001/ws"
+        },
+        "nodePublicKey": "E4EAF960E8C4291AF1810F706E16750E3790237FDCF8887B4B0C1854603AD0FF",
+        "chainHeight": 29148,
+        "finalization": {
+            "height": 29132,
+            "epoch": 42,
+            "point": 29,
+            "hash": "4CAEFF3EBCB2B613BCC9EE34905B96BD4FF4F5546DEB467189F37A2A985F01AB"
+        },
+        "nodeStatus": {
+            "apiNode": "up",
+            "db": "up"
+        },
+        "restVersion": "2.4.2"
+    },
+    "__v": 0
+}{
+    "_id": "6375cc47343a650012b9fff3",
+    "version": 16777989,
+    "publicKey": "D20C4BFCE4AA22D8C9FDC5952BA36F41EE2226241362A963223A077FB1942192",
+    "networkGenerationHashSeed": "49D6E1CE276A85B70EAFE52349AACCA389302E7A9754BCF1221E79494FC665A4",
+    "roles": 3,
+    "port": 7900,
+    "networkIdentifier": 152,
+    "host": "mikun-testnet2.tk",
+    "friendlyName": "mikun_test2",
+    "lastAvailable": "2022-11-17T05:53:11.123Z",
+    "peerStatus": {
+        "isAvailable": true,
+        "lastStatusCheck": 1668664302124
+    },
+    "apiStatus": {
+        "restGatewayUrl": "https://mikun-testnet2.tk:3001",
+        "isAvailable": true,
+        "isHttpsEnabled": true,
+        "lastStatusCheck": 1668664303554,
+        "webSocket": {
+            "isAvailable": true,
+            "wss": true,
+            "url": "wss://mikun-testnet2.tk:3001/ws"
+        },
+        "nodePublicKey": "E4EAF960E8C4291AF1810F706E16750E3790237FDCF8887B4B0C1854603AD0FF",
+        "chainHeight": 29148,
+        "finalization": {
+            "height": 29132,
+            "epoch": 42,
+            "point": 29,
+            "hash": "4CAEFF3EBCB2B613BCC9EE34905B96BD4FF4F5546DEB467189F37A2A985F01AB"
+        },
+        "nodeStatus": {
+            "apiNode": "up",
+            "db": "up"
+        },
+        "restVersion": "2.4.2"
+    },
+    "__v": 0
+}
