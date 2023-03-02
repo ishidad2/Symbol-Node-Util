@@ -3,3 +3,4 @@ node_modules
 coverage
 .env
 .DS_Store
+/src/script/jp_nodes.js
