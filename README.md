@@ -5,7 +5,7 @@ This module retrieves the active node of the blockchain Symbol
 # Installation
 
 ```
-npm instll symbol-node-util
+npm install symbol-node-util
 or
 yarn add symbol-node-util
 ```
